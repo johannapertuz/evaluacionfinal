@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m93.115921,391.248539c146.245813,-54.496182 -89.601308,-63.838384 -90.116258,-63.643755c-0.51495,0.194629 197.225867,4.476472 196.710917,4.671101c-0.51495,0.194629 113.80396,-24.717911 113.28901,-24.523282" fill="#ff007f" id="svg_22" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" style="vector-effect: non-scaling-stroke;"/>
+  <path d="m103.523242,154.5c130.677844,66.900764 -80.063186,78.369466 -80.52332,78.130535c-0.460133,-0.238931 176.231036,-5.49542 175.770903,-5.734351c-0.460133,-0.238931 101.689449,30.344275 101.229316,30.105344" fill="#ff007f" id="svg_21" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <text fill="#ff007f" font-family="serif" font-size="24" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(5.108 0 0 5.23077 -300.526 -759.423)" x="87.129603" xml:space="preserve" y="207.191176">GPB</text>
+  <polygon cx="125.5" cy="135.5" fill="#ffaaaa" id="svg_10" orient="point" point="5" points="165,190.02236938476562 169.95103454589844,203.46607971191406 185.02737426757812,203.7560577392578 173.0109405517578,212.35470581054688 177.37759399414062,225.97763061523438 165,217.8481903076172 152.62242126464844,225.97763061523438 156.9890594482422,212.35470581054688 144.97262573242188,203.7560577392578 160.04896545410156,203.46607971191406 165,190.02236938476562 169.95103454589844,203.46607971191406 " r="76.25979" r2="30.503916" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <path d="m158.815053,340.319721c5.354563,-17.12886 26.333916,0 0,22.02282c-26.333916,-22.02282 -5.354563,-39.151681 0,-22.02282z" fill="#ffaaaa" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+ </g>
+</svg>
